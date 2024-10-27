@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe93b8c4.css",
+    "main.js": "/static/js/main.f04efe54.js",
+    "static/js/453.726ec4de.chunk.js": "/static/js/453.726ec4de.chunk.js",
+    "static/media/raiffeisen-logo.png": "/static/media/raiffeisen-logo.ae3655e7a041eb43f985.png",
+    "index.html": "/index.html",
+    "main.fe93b8c4.css.map": "/static/css/main.fe93b8c4.css.map",
+    "main.f04efe54.js.map": "/static/js/main.f04efe54.js.map",
+    "453.726ec4de.chunk.js.map": "/static/js/453.726ec4de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe93b8c4.css",
+    "static/js/main.f04efe54.js"
+  ]
+}
